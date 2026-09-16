@@ -1,0 +1,6 @@
+{
+  "name": "Scoping Reviewer AI",
+  "description": "An automated PRISMA-ScR scoping review tool connecting directly to PubMed for evidence mining, title screening, data extraction, and flowchart generation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
